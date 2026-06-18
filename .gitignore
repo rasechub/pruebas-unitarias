@@ -1,1 +1,9 @@
-/vendor
+# Ignorar dependencias de composer
+/vendor/
+
+# Ignorar caché de PHPUnit
+.phpunit.cache
+
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
