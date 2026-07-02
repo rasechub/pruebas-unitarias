@@ -1,7 +1,7 @@
 # Informe de Pruebas Unitarias - Sistema de Reservas
 
-**Fecha:** 25/06/2026
-**Preparado por:** Aquino Anglas Cesar Augusto
+**Fecha:** 25/06/2026 <br>
+**Preparado por:** Aquino Anglas Cesar Augusto <br>
 **Rol:** QA Engineer
 
 ## Resumen Ejecutivo
